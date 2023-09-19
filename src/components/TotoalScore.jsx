@@ -12,7 +12,6 @@ const TotoalScore = () => {
 export default TotoalScore
 const  ScoreContainer =  styled.div`
     max-width:200px;
-    /* background-color: red; */
     text-align:center;
      h1{
        font-size: 4rem;
